@@ -12,3 +12,4 @@ A aplicação possibilita a criação, exclusão, o carregamento de notas.
 
 * salvar as pasta em uma arquivo compactado
 * Puxar um arquivo salvo
+* 
